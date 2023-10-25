@@ -11,4 +11,4 @@ These are yet to be implemented:-
 - [ ] Training the tokenizers with a bigger text corpus.
 - [ ] Seperating the Encoder-Decoder architecture by adding an `encoder` and `decoder` class , so as to better understand the data flow.
 - [ ] Adding an Attention Layer (an `additive_attention` class.)
-- many more :)
+- [ ] many more :)
